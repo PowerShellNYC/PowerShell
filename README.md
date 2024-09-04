@@ -1,8 +1,7 @@
 # PowerShell
 Various in progress scipts
-WebScraping 
-AD automation
-MicroSoft 365 Scripts
-Azure
+Huge Collection of Microsoft 365 scripts and Azure Active Directory
+From Reddit /r/powershell
+
 
 
